@@ -1,31 +1,6 @@
-UPPDATERING 6/5-22 kl.18:00
+UPPDATERING 15/5-22 Kl 14:00
 
-Gas Station Simulator
-- Detta script kommer att tillåta er att äga vilken bensinstation som helst i staden.
+Justering av antal och utbetalning i dyka efter koraller.
+Flyttat båtgaraget till andra sidan hamnen 'Båthus LSMYC'
 
-- Du kommer att kunna ändra namn, logga och loggans färg på bensinstationen (språkpoliserna ser er 😉 )
-
-- Priset för en bensinstation är olika, beroende vart någonstans i staden dom ligger geografiskt.
-
-- Att äga en bensinstation kommer med stort ansvar, då det är du som ägare som måste se till att det finns tillräckligt med bensin i pumparna & att invånarna i staden inte tycker att du ruinerar dom på pengar då det faktiskt är du som ägare som bestämmer literpriset. För dyr? Då kommer antagligen invånarna tanka någon annanstans.
-
-- Statistiken är detaljerad för detta script, du kan enkelt följa hur mycket du spenderat kontra hur mycket du tjänat. Du kan även se hur många kunder som har handlat hos dig.
-
-- Det finns ett uppgraderingssystem för din bensinstation, du har möjlighet att öka vitala delar som din lagerkapacitet, lastbilskapacitet & relationen med din suppleant av bensin som du importerar.
-
-- Du kan anlita invånare i staden att köra leveranser åt dig för att din bensinstation in ska få slut på bensin. 
-
-- Du som ägare har även möjligheten att i din tur exportera din redan importerade bensin för att tjäna pengar till företaget.
-
-- Det finns 19 olika bensinstationer i staden & man kan endast äga en station per karaktär.
-
-- Detta "jobbet" ersätter inte er befintliga anställning, om det så är som polis, sjukvårdare, mekaniker, taxichaufför osv. Utan detta är som en sidohobby där du kan tjäna pengar i förlängningen om du har drivet & aktiviteten.
-
-- Skulle du gå under 20% av din lagerkapacitet så har du 72 timmar på dig att fylla på med bensin. Skulle du inte göra detta så kommer du att tappa ägandet av bensinstationen utan någon som helst ersättning & nästa invånare i staden som känner sig manad kommer att få ta sig an uppgiften.
-
-Krantz Tuning
-- Mekaniker på Krantz Tuning kan nu ha en förhandsvisning av visuella modifieringen för kundens fordon.
-- Optimeringar i arbetsscriptet.
-
-Paleto Lodge
-- Hotellet i Paleto lanseras.
+Uppdaterad bankråns skriptet till nyare version.
