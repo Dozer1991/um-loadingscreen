@@ -1,61 +1,6 @@
-"Tre Måsägg och en Donut: House keeping”  -  Patch Notes (19-Aug)
+Söndag 28 Augusti 2022 - Patch Notes
 
-Aktiviteter
-- Det har ankomit 3  nya individer ni kommer kunna hitta och hjälpa dessa med diverse aktiviteter. (Både Krim & Lagligt)
-- Pokemonkort har nu (20år senare) landat hos oss i Måsviken! Samla på dessa precis som i barndomens glada dagar.. och vem vet kanske kan man tjäna en hacka på dem?
-- Polismyndigheten har fått igång sina fartkameror för att jaga stadens kriminella men det dom inte vet är att dom kriminella har satt sin egna spinn på detta och brukar det som en lek att visa vem som egentligen är kung på gatan.
-- Saknat att kunna vaska efter guld på dagarna ? Frukta icke Måsviken har återöppnat den populära floden för er lycksökare! (Egen Vaskpanna medtages)
-- På tal om lyckosökare.. ni kommer på utvalda platser runt om i staden kunna använda en metaldetektor för att hitta värdefulla saker som hamnat i glömska.
-- Det finns nu möjlighet att extra knäcka som UBER förare via den sproilans nya appen i mobilen.
-- Allas våran älskade dildo leverantör Sven återfinns nu på kommunhuset.
-- En Spelhall hittar ni nu på piren för lite gött häng och några biror..
-- Äntligen har Måsvikens jaktlag öppnat upp sin jaktmark i norr! Tag kontakt med polismyndigheten för att ansöka om jaktlicens.
-- MåsVegas har återöppnat men enbart i lite verision (Blackjack) då sist så tömdes casino valvet alldeles för fort..
+- Fix på mobilen. Förhoppningsv is har vi löst så ni ej crashar random längre.
+- Stressen vid bilkörning är nu korrigerad och ni bör inte bli lika stressade som tidigare
 
-Jobb
-- Krantz har nu flyttat och har nya lokaler där dom kommer ha möjlighet att köpa in begagnade fordon från spelare och fräscha upp dessa och sälja vidare.
-- Tommis Pizzeria har öppnat sina dörrar till er aspirerande pizzabagare!
-- Ja.. vi vet det är uttjatat men Vanilla Unicorn kommer slå upp sina dörrar i ny regi och kommer fungera som eventcenter/hub. Dom kommer hålla i event och andra aktiviteter men kan även vara behjälpliga om ni skulle vilja ha ett event själva men få hjälp med att sköta det.
-- Det finns nu ett par ställen i staden där ni kommer kunna laga era fordon när det inte är några Krantzare vakna. En av dem är bakom deras nya verkstad men håll ett öga så inte kostnaderna skenar.. Dyr bil dyra reparationer!
-- Albatross Transport är tillbaka! Dom anställer er mer än gärna i kommunhuset.
-
-Fru Grön
-- Cassandra har slutat behålla alla pengar för sig själv och kommer nu skicka dessa vidare till Sjukhusets kassa.
-- Komradion har nu snabb funktioner i F1 när ni är i tjänst och radion är på! (Gäller även Polisen)
-- Sjukvården är åter i sina gamla härliga lokaler då dom saknade sitt garage så in i bänken. Vi hoppas dom håller sig till denna interiör ett tag.. Kostnaden att renovera kåken börjar tära på kommunens ekonomi. Dom har även fått tillgång till en egen bänk när alla Krantzare sover precis som polisen har idag.
-
-Tant Blå
-- Eran radar i bilen startar nu automatiskt när ni sätter er i bilen med färdiga inställningar(80kmh).
-- Efterlysta fordon kommer automatiskt trigga regplåts låsning och ett larm.
-- Ni har nu möjlighet att byta väst och till insatskläder i bagaget på era arbetsfordon.
-- Ni har nu möjlighet att dela ut  jaktlicens till spelare. Det kommer finnas en lättare guide om hur ni sköter detta!
-- CAD lättare uppdatering iom den nya jakt aktiviteten samt att ni nu kan fylla i DNA och Fingeravtrycks ID via medborgar delen.
-- Ni har nu ett nytt kommand "efterlys" med denna kan ni lägga in temporär efterlysning av fordon(varar tills servern startas om) 
-@here 
-KRIM
-- Tre nya heists är nu tillgängliga där ni kan hitta allt från grov kalibriga vapen till smörknivar..
-- Omstrukturering av Miguell och mindre touch ups har gjort kring dessa.
-- En ny npc där ni kommer kunna göra uppdrag för att bygga krimrep även när poliserna ligger och susar gott om natten.
-
-UI
-- Vi har tagit bort majoriteten av standard blipparna på kartan för att få en renare look.
-- Det ligger nu en funktion ”Hitta” i F1 menyn. Vid användning sätter den en GPS till närmsta facilitet ni valt.
-- Lätt uppfräschad karaktärs väljarmeny samt loadscreen.
-- Bilnycklar som ITEM är nu i full swing. Kontakta staff så hjälper vi er med nycklar till de fordon ni har idag.
-- En ny färdighets meny för crafting,krimrep m.m
-- En handfull nya animationer finner ni nu i animations menyn.
-
-Fordon
-- Möjlighet att välja mellan Purge och Boost mode på NOS dvs show eller effekt samt möjlighet att byta färg på röken. För att växla läge trycker ni ned scrollen på musen.
-- Driftknappen är nu Vänster CTRL istället för shift då den krockade med NOS knappen.
-- Spelar styrda bensinmackar är nu borttaget och vi har återinfört det gamla systemet. (Ni som har mackar kommer bli kompenserade så snart vi har sammanställt nuffrorna)
-- Det har anlänt 18 nya fordon samt 2,4k nya modifikationer till både nya och gamla fordon.
-
-Övrigt
-- Vi kör nu med build 2699 (The Criminal Enterprises) detta innebär en del nya funktioner och fordon. Endel är listade redan i denna patch notis. 
-- Skadeskriptet har nu blivit ändrat och man kommer inte längre falla ihop var femte sekund när man har en skada. Att ha på sig skyddsväst ger nu mindre chans för blödning när man blir skadad. Blödnings ticket är långsammare, man tar också mindre skada vid varje blödnings 'blackout' tick. Bandage påverkar nu endast blödning, den stoppar/saktar ner blödningen, resten kan bara sjukvården lösa.
-- Hela klädes paketet har mer eller mindre strukturerats om detta innefattar att en del nya kläder kommit in samt en del gamla som försvunnit.
-- Samtliga fordon har fått sänkt hastighet för att minska desync men även för att ge möjlighet till bättre biljakter.
-- I och med att vi kör med denna ny build har det även landat 63 nya tatueringar hos stadens tatuerarare.
-- Servern är mer eller mindre återbyggd från scratch med en flång ny uppdaterad QBCore platta med alla scripts så vi har dom senaste verisionerna på dessa.
-- Funktionaliteten för skyddsväst är ändrad. Går nu ta av sig skyddsvästen och behålla skyddet som är kvar på den.
+// Staff
