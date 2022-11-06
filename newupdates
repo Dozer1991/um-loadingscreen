@@ -1,9 +1,19 @@
-**UPPDATERING KL 05:00 24/10**
+UPPDATERING 23:30 6/11
 
-- Telefonen har fått sig en hel arme med små fixar. Första gånger ni startar telefonen efter ni vaknat kommer ni få en "Hello" skärm det är bara att vänta några sekunder medans telefonen laddar in all data.
+- Vi har nu uppdaterat vårat klädessystem. Detta innebär en hel rad förändringar i hur outfits m.m sparas samt ett nytt UI kring karaktärsskaparen/redigeraren överlag. Detta innebär att det ni hade på er när ni loggade sist är den enda outfitten ni har kvar och denna är EJ sparad. Vi rekomenderar att ni uppsöker en klädaffär och sparar den direkt ni loggar in.
 
-- Mäklar/Hus skriptet har fått sig en uppdatering med mycket små grejjer som blivit lagade samt nya möjligheter för oss när det gäller att skapa hus.
+- Vårat inventory är nu uppdaterat och vi har lagt till funktionen "Decay" detta innebär att vi kommer kunna sätta en timer på hur länge te.x en smörgås är ätbar. Initialt är dom ställda högt och **KOMMER** redigerads med tidens tand. Ni kommer inte kunna stacka föremål med olika kvalite! Detta är inte en bug utan det är så det skall fungera. En hel del items har fått lite nya bilder med men skulle ni känna att något item saknar en bild eller behöver redigeras (Förutom Pokemon korten :sweat_smile: ) så skapa gärna en ticket!
 
-- Båt kokain uppdraget kommer stängas av tillsvidare då det tyvärr är redigt buggat... 
+- Karaktärsmenyn har även den fått sig en skvätt ny färg och lite massage kring utseendet. Känns lite nyare en föregående!
 
-//Staff 
+- Kommunen har städat bort alla halloween utsmyckningar runtom i hela staden. Detta innebär att det inte längre går att växla in eran event valuta!
+
+- Husskriptet har uppdaterats och nu bör det gå att dekorera korrekt utan att saker och ting försvinner upp i rök!
+
+- Och i vanlig ordning har vi städat upp och optimerat en hel hög med kod och bröte som legat och dammat... 
+
+- Bilderna i företagsappen kommer vid 02 RS!
+
+- Metaldetektorn är justerad och tillbaka i drift!
+
+//Staff
